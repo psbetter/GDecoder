@@ -1,5 +1,5 @@
 # GDecoder
 
-Code for 'Improving Contrastive Learning for Referring Expression Counting'
+Code for 'GDecoder: Generative Decoder for Zero-Shot Object Counting'
 
 Code will be updated soon™.
